@@ -1,4 +1,5 @@
-#构建二叉树及其各类方法
+#构建二叉树及其各类方法  
+
 // 中序遍历(min<max)  
 
 // binaryTree.inOrderTraverse(callback);  
